@@ -27,7 +27,7 @@
 *May 2026 – Present*
 - Developing a full-stack data visualization app to expose systemic socio-economic and racial segregation patterns across partner school districts.
 - Engineered a Python data pipeline to parse topological GML network datasets into optimized JSON structures, reducing front-end rendering latency.
-- Developing dynamic data models using React, TypeScript, and D3.js to simulate the real-time separation of student nodes through course tracking.
+- Developing dynamic data models using React, TypeScript, Tailwind CSS, and D3.js to simulate the real-time separation of student nodes through course tracking.
 - Designing the end-to-end user experience, translating dense demographic datasets into an intuitive, story-driven interactive web application.
 
 ### Designer and Developer | Scout, Boston, MA

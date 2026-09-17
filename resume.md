@@ -1,5 +1,5 @@
 # Alexia R. Kouletsis
-(717) 649-2182 (cell) | [alexiark06@icloud.com](mailto:alexiark06@icloud.com) | Available January – August 2027
+(717) 649-2182 (cell) | [alexiark06@icloud.com](mailto:alexiark06@icloud.com) | Available January – August 2027  
 Portfolio: [alexiakouletsis.com](https://www.alexiakouletsis.com) | [github.com/alexiakouletsis](https://github.com/alexiakouletsis) | [linkedin.com/in/alexia-kouletsis](https://linkedin.com/in/alexia-kouletsis)
 
 ---

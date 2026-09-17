@@ -42,7 +42,7 @@ Portfolio: [alexiakouletsis.com](https://www.alexiakouletsis.com) | [github.com/
 
 ### TA for Algorithms and Data Structures | Northeastern University, Boston, MA
 *September 2026 – Present*
-- Independently lead weekly recitations for ~40 students within a two-lecture-section course of 160–180 students
+- Independently lead weekly recitations for 40 students within a two-lecture-section course of 215 students
 - Hold office hours twice weekly (2 hours each), attend weekly TA meetings, and proctor and grade course quizzes
 
 ### Volunteer Tutor | 826 Boston, Boston, MA

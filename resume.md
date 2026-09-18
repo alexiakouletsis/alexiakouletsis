@@ -24,7 +24,7 @@ Portfolio: [alexiakouletsis.com](https://www.alexiakouletsis.com) | [github.com/
 
 ### Research Assistant | Plural Connections Group, Boston, MA
 *May 2026 – Present*
-- Building a full-stack scrollytelling data visualization exposing segregation patterns in a school district of 50,000+ students, using React, TypeScript, D3.js, and Tailwind
+- Building a [full-stack scrollytelling data visualization](https://www.isyourschoolsegregated.com/) exposing segregation patterns in a school district of 50,000+ students, using React, TypeScript, D3.js, and Tailwind
 - Writing Python data pipelines to convert raw graph data into course-level enrollment stats by race and socioeconomic status
 - Leading UX design decisions translating dense demographic data into a clear, narrative-driven interface
 - Coding 30+ AI model cards to log evaluation transparency across companies; named co-author on the resulting paper

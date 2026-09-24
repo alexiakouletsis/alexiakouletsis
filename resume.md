@@ -9,7 +9,7 @@ Portfolio: [alexiakouletsis.com](https://www.alexiakouletsis.com) | [github.com/
 ### Northeastern University, Boston, MA | Khoury College of Computer Sciences
 **Candidate for a B.S. in Computer Science and Design** | September 2025 – Present
 - **Expected Graduation:** May 2029
-- **GPA:** 3.967/4.0
+- **GPA:** 3.97/4.0
 - **Honors:** Khoury College Dean's List (Spring 2026)
 - **Relevant Coursework:** Theory of Computation, C++, Interaction Design, Algorithms and Data, Program Design I & II (Python, Java), Human-Computer Interaction, Discrete Structures, Design Processes and Practices
 

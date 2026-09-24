@@ -6,9 +6,10 @@ Portfolio: [alexiakouletsis.com](https://www.alexiakouletsis.com) | [github.com/
 
 ## Education
 
-### Northeastern University, Boston, MA | Khoury College of Computer Science
-**Candidate for a B.S. in Computer Science and Design** | September 2025 – May 2029
-- **GPA:** 3.967
+### Northeastern University, Boston, MA | Khoury College of Computer Sciences
+**Candidate for a B.S. in Computer Science and Design** | September 2025 – Present
+- **Expected Graduation:** May 2029
+- **GPA:** 3.967/4.0
 - **Honors:** Khoury College Dean's List (Spring 2026)
 - **Relevant Coursework:** Theory of Computation, C++, Interaction Design, Algorithms and Data, Program Design I & II (Python, Java), Human-Computer Interaction, Discrete Structures, Design Processes and Practices
 
@@ -24,31 +25,31 @@ Portfolio: [alexiakouletsis.com](https://www.alexiakouletsis.com) | [github.com/
 
 ### Research Assistant | Plural Connections Group, Boston, MA
 *May 2026 – Present*
-- Building a [full-stack scrollytelling data visualization](https://www.isyourschoolsegregated.com/) exposing segregation patterns in a school district of 50,000+ students, using React, TypeScript, D3.js, and Tailwind
-- Writing Python data pipelines to convert raw graph data into course-level enrollment stats by race and socioeconomic status
-- Leading UX design decisions translating dense demographic data into a clear, narrative-driven interface
-- Coding 30+ AI model cards to log evaluation transparency across companies; named co-author on the resulting paper
+- Build a [full-stack scrollytelling data visualization](https://www.isyourschoolsegregated.com/) exposing segregation patterns in a school district of 50,000+ students, using React, TypeScript, D3.js, and Tailwind
+- Develop Python data pipelines to convert raw graph data into course-level enrollment stats by race and socioeconomic status
+- Drive UX design decisions translating dense demographic data into a clear, narrative-driven interface
+- Code 30+ AI model cards to log evaluation transparency across companies; named co-author on the resulting paper
 
 ### Senior Designer | Scout, Boston, MA
 *January 2026 – Present*
-- Developing a responsive React/TypeScript/Tailwind website for a local Boston band, implementing scroll-triggered animations using Intersection Observer API. ([Repository](https://github.com/alexiakouletsis/Goodkarma_About_Page))
-- Designing lo-fi and hi-fi Figma prototypes for desktop and mobile ahead of development
-- Facilitating client meetings to define project scope and translate feedback into design decisions
-- Coordinating with design and development teams across a 10+ person team to keep deliverables aligned
+- Develop a responsive React/TypeScript/Tailwind website for a local Boston band, implementing scroll-triggered animations using Intersection Observer API
+- Design lo-fi and hi-fi Figma prototypes for desktop and mobile ahead of development
+- Facilitate client meetings to define project scope and translate feedback into design decisions
+- Coordinate with design and development teams across a 10+ person team to keep deliverables aligned
 
 ---
 
 ## Additional Experience/Volunteer Work
 
-### TA for Algorithms and Data Structures | Northeastern University, Boston, MA
+### Teaching Assistant – Algorithms and Data Structures | Northeastern University, Boston, MA
 *September 2026 – Present*
-- Independently leading weekly recitations for 40 students within a two-lecture-section course of 215 students
-- Holding office hours twice weekly (2 hours each), attend weekly TA meetings, and proctor and grade course quizzes
+- Lead weekly recitations for 40 students within a two-lecture-section course of 215 students
+- Hold office hours twice weekly (2 hours each), attend weekly TA meetings, and proctor and grade course quizzes
 
 ### Volunteer Tutor | 826 Boston, Boston, MA
 *January 2026 – Present*
-- Providing one-on-one academic support to K-12 students in a drop-in tutoring setting
-- Adapting explanations across age groups and learning styles to improve student comprehension
+- Provide one-on-one academic support to K-12 students in a drop-in tutoring setting
+- Adapt explanations across age groups and learning styles to improve student comprehension
 
 ### IT Associate Consultant | [JERO International Consulting](https://jerointernationalconsulting.com/), Rome, Italy
 *September 2025 – December 2025*
